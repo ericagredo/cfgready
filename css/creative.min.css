@@ -2924,8 +2924,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #02bad4;
-    border-color: #02bad4
+    background-color: #f07305;
+    border-color: #f07305
 }
 
 .btn-primary:hover {
@@ -7440,7 +7440,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-    background-color: #02bad4 !important
+    background-color: #f07305 !important
 }
 
 a.bg-primary:focus,
@@ -11679,7 +11679,7 @@ html {
 hr.divider {
     max-width: 3.25rem;
     border-width: .2rem;
-    border-color: #02bad4
+    border-color: #f07305
 }
 
 hr.light {
