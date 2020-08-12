@@ -1,1 +1,1 @@
-Sitemap: http://cfgready.com/sitemap.xml
+Sitemap: https://cfgready.com/sitemap.xml
